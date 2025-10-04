@@ -1,0 +1,1340 @@
+[
+  {
+    "pun": "A man died today when a pile of books fell on him. He only had his shelf to blame.",
+    "pun_word": "Shelf",
+    "real": "self",
+    "id": 1
+  },
+  {
+    "pun": "Thanks for explaining the word 'many' to me, it means alot.",
+    "pun_word": "Alot",
+    "real": "a_lot",
+    "id": 2
+  },
+  {
+    "pun": "My room mates are concerned that I'm using their kitchen utensils, but that's a whisk i'm willing to take.",
+    "pun_word": "Whisk",
+    "real": "risk",
+    "id": 3
+  },
+  {
+    "pun": "A criminals best asset is his lie ability.",
+    "pun_word": "lie_ability",
+    "real": "liability",
+    "id": 4
+  },
+  {
+    "pun": "Weight loss pills stolen this morning - police say suspects are still at large.",
+    "pun_word": "large",
+    "real": "at_large",
+    "id": 5
+  },
+  {
+    "pun": "Did you hear about the hungry clock? It went back four seconds.",
+    "pun_word": "Four",
+    "real": "for",
+    "id": 6
+  },
+  {
+    "pun": "I'm on a seafood diet. I see food, and I eat it.",
+    "pun_word": "seafood",
+    "real": "see_food",
+    "id": 7
+  },
+  {
+    "pun": "I try not to tell dad jokes. But when I do, he thinks they’re really funny.",
+    "pun_word": "dad",
+    "real": "bad",
+    "id": 8
+  },
+  {
+    "pun": "She didn't marry the gardener. Too rough around the hedges.",
+    "pun_word": "hedges",
+    "real": "edges",
+    "id": 9
+  },
+  {
+    "pun": "A boiled egg in the morning is hard to beat.",
+    "pun_word": "Beat",
+    "real": "eat",
+    "id": 10
+  },
+  {
+    "pun": "How do you organize a space party? You planet!",
+    "pun_word": "Planet",
+    "real": "plan_it",
+    "id": 11
+  },
+  {
+    "pun": "This girl said she recognized me from the vegetarian club. But I've never met herbivore!",
+    "pun_word": "herbivore",
+    "real": "her_before",
+    "id": 12
+  },
+  {
+    "pun": "A dog gave birth to puppies near the road and was ticketed for littering.",
+    "pun_word": "Littering",
+    "real": "litter",
+    "id": 13
+  },
+  {
+    "pun": "Did you hear about the kid napping? He woke up.",
+    "pun_word": "kid_Napping",
+    "real": "kidnapping",
+    "id": 14
+  },
+  {
+    "pun": "Did you hear about the man who lost his left side? He's all right now.",
+    "pun_word": "Right",
+    "real": "alright",
+    "id": 15
+  },
+  {
+    "pun": "He wears glasses during math because it improves division.",
+    "pun_word": "Division",
+    "real": "vision",
+    "id": 16
+  },
+  {
+    "pun": "I used to be a doctor, but then I lost patients.",
+    "pun_word": "patients",
+    "real": "patience",
+    "id": 17
+  },
+  {
+    "pun": "How did I escape Iraq? Iran.",
+    "pun_word": "Iran",
+    "real": "I_ran",
+    "id": 18
+  },
+  {
+    "pun": "Why are teddy bears never hungry? They are always stuffed!",
+    "pun_word": "Stuffed",
+    "real": "full",
+    "id": 19
+  },
+  {
+    "pun": "Be kind to your dentist because he has fillings too.",
+    "pun_word": "fillings",
+    "real": "feelings",
+    "id": 20
+  },
+  {
+    "pun": "My wife told me to stop speaking in numbers. But I didn't 1 2.",
+    "pun_word": "1_2",
+    "real": "want_to",
+    "id": 21
+  },
+  {
+    "pun": "A bicycle can't stand on its own because it is two-tired.",
+    "pun_word": "two-tired",
+    "real": "too_tired",
+    "id": 22
+  },
+  {
+    "pun": "It was an emotional wedding. Even the cake was in tiers.",
+    "pun_word": "tiers",
+    "real": "tears",
+    "id": 23
+  },
+  {
+    "pun": "I've got a chicken-proof front lawn. It's impeccable!",
+    "pun_word": "impeccable",
+    "real": "impeckable",
+    "id": 24
+  },
+  {
+    "pun": "What's a cow eating grass? A lawn mooer.",
+    "pun_word": "mooer",
+    "real": "mower",
+    "id": 25
+  },
+  {
+    "pun": "Cows lie down in the rain to keep each udder dry.",
+    "pun_word": "udder",
+    "real": "other",
+    "id": 26
+  },
+  {
+    "pun": "If you've been thinking about singing karaoke with a friend, just duet!",
+    "pun_word": "duet",
+    "real": "do_it",
+    "id": 27
+  },
+  {
+    "pun": "My grandma is on speed dial and now I call her instagram.",
+    "pun_word": "instagram",
+    "real": "instant_gram",
+    "id": 28
+  },
+  {
+    "pun": "The butcher walked backwards into the meat grinder and got a little behind in his work.",
+    "pun_word": "behind",
+    "real": "back",
+    "id": 29
+  },
+  {
+    "pun": "After the birth of your first child, your role in life will become apparent.",
+    "pun_word": "Apparent",
+    "real": "a_parent",
+    "id": 30
+  },
+  {
+    "pun": "He drove his expensive car into a tree and found out how the Mercedes bends.",
+    "pun_word": "bends",
+    "real": "Benz",
+    "id": 31
+  },
+  {
+    "pun": "Yesterday a clown held the door open for me. It was such a nice jester.",
+    "pun_word": "jester",
+    "real": "gesture",
+    "id": 32
+  },
+  {
+    "pun": "I'm going to stand outside, if anyone asks where I am tell them I am outstanding.",
+    "pun_word": "Outstanding",
+    "real": "outside",
+    "id": 33
+  },
+  {
+    "pun": "The cheese factory exploded today, there was de brie everywhere!",
+    "pun_word": "brie",
+    "real": "debris",
+    "id": 34
+  },
+  {
+    "pun": "I'm thinking about starting a herb garden, but I'm not sure if I have the thyme.",
+    "pun_word": "Thyme",
+    "real": "time",
+    "id": 35
+  },
+  {
+    "pun": "Why did the Mexican take anti anxiety pills? For Hispanic attacks!",
+    "pun_word": "Hispanic",
+    "real": "panic",
+    "id": 36
+  },
+  {
+    "pun": "Long fairy tales have a tendency to dragon.",
+    "id": 37,
+    "pun_word": "Dragon",
+    "real": "drag_on"
+  },
+  {
+    "pun": "Long fairy tales have a tendency to dragon.",
+    "id": 38,
+    "pun_word": "Dragon",
+    "real": "drag_on"
+  },
+  {
+    "pun": "Why did the bunny bang his head on the piano? He was playing by ear!",
+    "id": 39,
+    "pun_word": "Ear",
+    "real": "hear"
+  },
+  {
+    "pun": "Why did the bunny eat the wedding ring? Because he heard it was 24 carrots.",
+    "id": 40,
+    "pun_word": "carrots",
+    "real": "karats"
+  },
+  {
+    "pun": "I've got a chicken-proof front lawn. It's impeccable!",
+    "id": 41,
+    "pun_word": "Impeccable",
+    "real": "impeckable"
+  },
+  {
+    "pun": "What city has the largest rodent population? Hamsterdam",
+    "id": 42,
+    "pun_word": "Hamsterdam",
+    "real": "Amsterdam"
+  },
+  {
+    "pun": "What's a cow eating grass? A lawn mooer.",
+    "id": 43,
+    "pun_word": "mooer",
+    "real": "mower"
+  },
+  {
+    "pun": "What do you call a pile of cats? A meowtain.",
+    "id": 44,
+    "pun_word": "Meowtain",
+    "real": "mountain"
+  },
+  {
+    "pun": "I'm so purrfect that whenever I meet a pretty girl, I whisker away.",
+    "id": 45,
+    "pun_word": "whisker",
+    "real": "whisk_her"
+  },
+  {
+    "pun": "Cuddling a cat usually leaves you feline good.",
+    "id": 46,
+    "pun_word": "feline",
+    "real": "feeling"
+  },
+  {
+    "pun": "Did you hear about the cat who swallowed a ball of yarn? She had a litter of mittens!",
+    "id": 47,
+    "pun_word": "Litter",
+    "real": "kittens"
+  },
+  {
+    "pun": "Why did the dog sit in the shade? Because he didn't want to be a hot dog!",
+    "id": 48,
+    "pun_word": "hot_dog",
+    "real": "hotdog"
+  },
+  {
+    "pun": "What kind of construction are dogs best at? Roofing.",
+    "id": 49,
+    "pun_word": "Roofing",
+    "real": "woofing"
+  },
+  {
+    "pun": "I went to the zoo today, there was only one animal. It was a shitzu!",
+    "id": 50,
+    "pun_word": "Shitzu",
+    "real": "shit_zoo"
+  },
+  {
+    "pun": "What do you call birds who don’t know song lyrics? Hummingbirds",
+    "id": 51,
+    "pun_word": "Hummingbirds",
+    "real": "humming"
+  },
+  {
+    "pun": "When’s the best time to buy a bird? When it’s going cheep.",
+    "id": 52,
+    "pun_word": "Cheep",
+    "real": "cheap"
+  },
+  {
+    "pun": "Some people don’t like fish puns, but they are kraken me up!",
+    "id": 53,
+    "pun_word": "Kraken",
+    "real": "cracking"
+  },
+  {
+    "pun": "Have you thought of a fish pun yet, or do you need some time to mullet over?",
+    "id": 54,
+    "pun_word": "Mullet",
+    "real": "mull_it"
+  },
+  {
+    "pun": "When Noah was loading the ark, where did he put the bees? In the ark-hives!",
+    "id": 55,
+    "pun_word": "ark-hives",
+    "real": "archives"
+  },
+  {
+    "pun": "What happens when you try talking to a cow? Everything just goes in one ear and out the udder.",
+    "id": 56,
+    "pun_word": "udder",
+    "real": "other"
+  },
+  {
+    "pun": "What do you call a cow that plays an instrument? A moo-sician!",
+    "id": 57,
+    "pun_word": "moo-sician",
+    "real": "musician"
+  },
+  {
+    "pun": "If your piglet wants to be a wizard, there’s only one alternative: Hogwarts.",
+    "id": 58,
+    "pun_word": "Hogwarts",
+    "real": "Hog_warts"
+  },
+  {
+    "pun": "How do you count cows? With a cow-culator!",
+    "id": 59,
+    "pun_word": "cow-culator",
+    "real": "calculator"
+  },
+  {
+    "pun": "How do you see a deer behind you? Hindsight.",
+    "id": 60,
+    "pun_word": "Hindsight",
+    "real": "hind_sight"
+  },
+  {
+    "pun": "Why did the squirrel take apart the car? To find its acorn-ditioning!",
+    "id": 61,
+    "pun_word": "acorn-ditioning",
+    "real": "air_conditioning"
+  },
+  {
+    "pun": "What's a snake's favorite subject in school? Hissss-tory!",
+    "id": 62,
+    "pun_word": "Hissss-tory",
+    "real": "History"
+  },
+  {
+    "pun": "Why don't giraffes like fast food? Because they can't catch it!",
+    "id": 63,
+    "pun_word": "catch",
+    "real": "fast"
+  },
+  {
+    "pun": "What do you call a tired kangaroo? A pouch potato!",
+    "id": 64,
+    "pun_word": "Pouch",
+    "real": "couch"
+  },
+  {
+    "pun": "What do you call a snake that is 3.14 meters long? A pi-thon!",
+    "id": 65,
+    "pun_word": "pi-thon",
+    "real": "python"
+  },
+  {
+    "pun": "How does a group of dolphins decide on something? – They flipper coin!",
+    "id": 66,
+    "pun_word": "Flipper",
+    "real": "flip"
+  },
+  {
+    "pun": "Why don't lobsters share? Because they're shellfish!",
+    "id": 67,
+    "pun_word": "shellfish",
+    "real": "selfish"
+  },
+  {
+    "pun": "What do you call a fish with no eyes or fins? Fshhh!",
+    "id": 68,
+    "pun_word": "Fshhh",
+    "real": "fish"
+  },
+  {
+    "pun": "How do crabs communicate? With sand signals!",
+    "id": 69,
+    "pun_word": "Sand",
+    "real": "hand"
+  },
+  {
+    "pun": "Coming up with weather puns is a breeze.",
+    "id": 70,
+    "pun_word": "breeze",
+    "real": "ease"
+  },
+  {
+    "pun": "The hottest day of the week is Sun-day...",
+    "id": 71,
+    "pun_word": "Sun",
+    "real": "Sunday"
+  },
+  {
+    "pun": "What do you call a bear caught out in the rain? A drizzily bear.",
+    "id": 72,
+    "pun_word": "drizzily",
+    "real": "grizzly"
+  },
+  {
+    "pun": "Local weather reports state there won't be any rain for 1 year, but I drought it.",
+    "id": 73,
+    "pun_word": "drought",
+    "real": "doubt"
+  },
+  {
+    "pun": "If it really rained cats and dogs, there would be poodles all over the streets.",
+    "id": 74,
+    "pun_word": "Poodles",
+    "real": "puddles"
+  },
+  {
+    "pun": "What did one raindrop say to the other? Two's company, three's a cloud.",
+    "id": 75,
+    "pun_word": "cloud",
+    "real": "crowd"
+  },
+  {
+    "pun": "Cows lie down in the rain to keep each udder dry.",
+    "id": 76,
+    "pun_word": "udder",
+    "real": "other"
+  },
+  {
+    "pun": "Cold and chilly winter weather is snow laughing matter.",
+    "id": 77,
+    "pun_word": "Snow",
+    "real": "no"
+  },
+  {
+    "pun": "The cows lay down in the rain to keep each udder dry.",
+    "id": 78,
+    "pun_word": "udder",
+    "real": "other"
+  },
+  {
+    "pun": "For those people who live in northern climates, the winter is snow problem.",
+    "id": 79,
+    "pun_word": "snow",
+    "real": "no"
+  },
+  {
+    "pun": "When I grow up I wanna be a cup so I can fight crime.",
+    "id": 80,
+    "pun_word": "cup",
+    "real": "cop"
+  },
+  {
+    "pun": "There was so much coffeeing in the office – everyone had the flu.",
+    "id": 81,
+    "pun_word": "coffeeing",
+    "real": "coughing"
+  },
+  {
+    "pun": "A young chip came asking for a job but I had to turn him away.",
+    "id": 82,
+    "pun_word": "chip",
+    "real": "chap"
+  },
+  {
+    "pun": "Satan can’t bring you down any farther than your knees.",
+    "id": 83,
+    "pun_word": "knees",
+    "real": "needs"
+  },
+  {
+    "pun": "Finding all possible logical relations between a finite collection of sets is not a matter of If but Venn.",
+    "id": 84,
+    "pun_word": "Venn",
+    "real": "when"
+  },
+  {
+    "pun": "My friend came around for dinner. We ate for 20 minutes, then he fainted again.",
+    "id": 85,
+    "pun_word": "around",
+    "real": "feinted"
+  },
+  {
+    "pun": "If you don't pay your exorcist you get repossessed.",
+    "id": 86,
+    "pun_word": "repossessed",
+    "real": "possessed"
+  },
+  {
+    "pun": "'Change the channel'she said remotely.",
+    "id": 87,
+    "pun_word": "Remotely",
+    "real": "remote"
+  },
+  {
+    "pun": "Piano players are considered to be Baldwin they lose their hair.",
+    "id": 88,
+    "pun_word": "Baldwin",
+    "real": "bald_when"
+  },
+  {
+    "pun": "My name is Bet. I'm a coupier.",
+    "id": 89,
+    "pun_word": "Bet",
+    "real": "croupier"
+  },
+  {
+    "pun": "A lot of big delivery companies are always trying to courier favour.",
+    "id": 90,
+    "pun_word": "courier",
+    "real": "curry"
+  },
+  {
+    "pun": "The portrait artist made extra money as a census taker. He was good at canvasing people.",
+    "id": 91,
+    "pun_word": "Canvasing",
+    "real": "canvassing"
+  },
+  {
+    "pun": "We did it twice last night, she relayed.",
+    "id": 92,
+    "pun_word": "Relayed",
+    "real": "related"
+  },
+  {
+    "pun": "Pharmacists find their work to be very encapsulating.",
+    "id": 93,
+    "pun_word": "Encapsulating",
+    "real": "captivating"
+  },
+  {
+    "pun": "Some people don't have the Vegas idea of how to quit gambling.",
+    "id": 94,
+    "pun_word": "Vegas",
+    "real": "vaguest"
+  },
+  {
+    "pun": "'I have been reading Voltaire,' Tom admitted candidly.",
+    "id": 95,
+    "pun_word": "candidly",
+    "real": "Candide"
+  },
+  {
+    "pun": "Hell! I thought it didn't matter what you believed as long as you were sincere!",
+    "id": 96,
+    "pun_word": "Hell",
+    "real": "Well"
+  },
+  {
+    "pun": "Procrastinators suffers from a hardening of the oughteries.",
+    "id": 97,
+    "pun_word": "Oughteries",
+    "real": "arteries"
+  },
+  {
+    "pun": "'You won the bronze,' said Tom meddlingly.",
+    "id": 98,
+    "pun_word": "meddlingly",
+    "real": "medaling"
+  },
+  {
+    "pun": "How does a Welsh man eat cheese ? Caerphilly.",
+    "id": 99,
+    "pun_word": "Caerphilly",
+    "real": "carefully"
+  },
+  {
+    "pun": "OLD EXORCISTS never die, they just get repossessed.",
+    "id": 100,
+    "pun_word": "repossessed",
+    "real": "possessed"
+  },
+  {
+    "pun": "A summer is a mathematician.",
+    "id": 101,
+    "pun_word": "Summer",
+    "real": "sum-er"
+  },
+  {
+    "pun": "She was only a Farmer's daughter, but she was the best little hoer in the county.",
+    "id": 102,
+    "pun_word": "hoer",
+    "real": "whore"
+  },
+  {
+    "pun": "An offer of a free lunch was not enough to entice Freud to make a presentation at a Behaviourist Convention. He explained,'There was nothing on the menu that was oedipal.'",
+    "id": 103,
+    "pun_word": "Oedipal",
+    "real": "edible"
+  },
+  {
+    "pun": "After winter, the trees are relieved.",
+    "id": 104,
+    "pun_word": "Relieved",
+    "real": "leaved"
+  },
+  {
+    "pun": "Finding all possible logical relations between a finite collection of sets is not a matter of If but Venn.",
+    "id": 105,
+    "pun_word": "Venn",
+    "real": "when"
+  },
+  {
+    "pun": "New legislation forbids anyone but Santa's family dressing up as him, and you must be named in the related clauses.",
+    "id": 106,
+    "pun_word": "Clauses",
+    "real": "Claus"
+  },
+  {
+    "pun": "My name is Phillip, I'm a service station attendant.",
+    "id": 107,
+    "pun_word": "Phillip",
+    "real": "fill_up"
+  },
+  {
+    "pun": "OLD FARMERS never die, they just turn into vegetables.",
+    "id": 108,
+    "pun_word": "vegetables",
+    "real": "vegetative"
+  },
+  {
+    "pun": "When Plato discovered he was out of food, he decided to go shop at the stoa.",
+    "id": 109,
+    "pun_word": "stoa",
+    "real": "store"
+  },
+  {
+    "pun": "Some food for thought is only baloney",
+    "id": 110,
+    "pun_word": "baloney",
+    "real": "bologna"
+  },
+  {
+    "pun": "My name is Clarence, I specialize in end - of - season inventory closeout sales.",
+    "id": 111,
+    "pun_word": "Clarence",
+    "real": "clearance"
+  },
+  {
+    "pun": "'Stop, horse! Stop!' cried Tom woefully.",
+    "id": 112,
+    "pun_word": "Woefully",
+    "real": "whoa"
+  },
+  {
+    "pun": "Give me some pre - packed cheese slices, said Tom craftily.",
+    "id": 113,
+    "pun_word": "craftily",
+    "real": "Kraft"
+  },
+  {
+    "pun": "'This steamroller is amazing,' said Tom flatteringly.",
+    "id": 114,
+    "pun_word": "flatteringly",
+    "real": "flattening"
+  },
+  {
+    "pun": "OLD LOCOMOTIVE ENGINEERS, never die, they just get derailed",
+    "id": 115,
+    "pun_word": "derailed",
+    "real": "retired"
+  },
+  {
+    "pun": "The bear went over the mountain to see what was bruin.",
+    "id": 116,
+    "pun_word": "bruin",
+    "real": "brewing"
+  },
+  {
+    "pun": "'I chop down trees for a living,' said Tom lumberingly.",
+    "id": 117,
+    "pun_word": "lumberingly",
+    "real": "lumberjack"
+  },
+  {
+    "pun": "OLD GARAGEMEN never die, they just retire",
+    "id": 118,
+    "pun_word": "retire",
+    "real": "retread"
+  },
+  {
+    "pun": "'I'm going after that red fish,' said Tom erringly.",
+    "id": 119,
+    "pun_word": "erringly",
+    "real": "herring"
+  },
+  {
+    "pun": "Do you know if they ever got detective Sam spayed.",
+    "id": 120,
+    "pun_word": "spayed",
+    "real": "paid"
+  },
+  {
+    "pun": "My name is Woody. A Forester",
+    "id": 121,
+    "pun_word": "Woody",
+    "real": "Wood"
+  },
+  {
+    "pun": "If an actress has a screaming role, can we say she eeks out a living ?",
+    "id": 122,
+    "pun_word": "Eeks",
+    "real": "ekes"
+  },
+  {
+    "pun": "Gallup and Harris are poller opposites.",
+    "id": 123,
+    "pun_word": "Poller",
+    "real": "polar"
+  },
+  {
+    "pun": "Geologists can be sedimental about their work.",
+    "id": 124,
+    "pun_word": "Sedimental",
+    "real": "sentimental"
+  },
+  {
+    "pun": "I bought me some of those new paper shirts. I don't like them - they're tearable.",
+    "id": 125,
+    "pun_word": "Tearable",
+    "real": "terrible"
+  },
+  {
+    "pun": "I met a girl at an internet cafe, but we didn't click.",
+    "id": 126,
+    "pun_word": "Click",
+    "real": "connect"
+  },
+  {
+    "pun": "My name is Otto. I'm a car mechanic.",
+    "id": 127,
+    "pun_word": "Otto",
+    "real": "auto"
+  },
+  {
+    "pun": "A police dog is often the scenter of a drug arrest.",
+    "id": 128,
+    "pun_word": "scenter",
+    "real": "center"
+  },
+  {
+    "pun": "A kangaroo that can't jump is completely hopless.",
+    "id": 129,
+    "pun_word": "Hopless",
+    "real": "hopeless"
+  },
+  {
+    "pun": "My friend is very paranoid. He says people are either foe him or against him.",
+    "id": 130,
+    "pun_word": "foe",
+    "real": "for"
+  },
+  {
+    "pun": "My name is Shelly, I'm an expert on mollusks",
+    "id": 131,
+    "pun_word": "Shelly",
+    "real": "shell"
+  },
+  {
+    "pun": "'Why shouldn't I stir my coffee with a ballpoint pen ?' Tom bickered.",
+    "id": 132,
+    "pun_word": "bickered",
+    "real": "bic"
+  },
+  {
+    "pun": "I do a lot of spreadsheets in the office so you can say I'm excelling at work.",
+    "id": 133,
+    "pun_word": "Excelling",
+    "real": "Excel"
+  },
+  {
+    "pun": "Attention staff! The clothes keep falling off the mannequins in ladies 'wear. Would someone please redress the problem?",
+    "id": 134,
+    "pun_word": "Redress",
+    "real": "address"
+  },
+  {
+    "pun": "I noticed that the sun was out, and nobody had bothered to relight it.",
+    "id": 135,
+    "pun_word": "relight",
+    "real": "alight"
+  },
+  {
+    "pun": "'How do you start a model - T Ford without a battery ?' asked Tom crankily.",
+    "id": 136,
+    "pun_word": "crankily",
+    "real": "crankt"
+  },
+  {
+    "pun": "'I admire East End gangsters,' said Tom crazily.",
+    "id": 137,
+    "pun_word": "crazily",
+    "real": "Trays-ily"
+  },
+  {
+    "pun": "'Who's your favorite operatic tenor ?' Tom asked placidly.",
+    "id": 138,
+    "pun_word": "placidly",
+    "real": "Placido"
+  },
+  {
+    "pun": "'She even flies her own jet,' Tom leered.",
+    "id": 139,
+    "pun_word": "leered",
+    "real": "learjet"
+  },
+  {
+    "pun": "Rabbits generally lead a hoppy life.",
+    "id": 140,
+    "pun_word": "Hoppy",
+    "real": "happy"
+  },
+  {
+    "pun": "My name is Hans. I'm a manicurist",
+    "id": 141,
+    "pun_word": "Hans",
+    "real": "hands"
+  },
+  {
+    "pun": "My name is Rusty. I undercoat cars.",
+    "id": 142,
+    "pun_word": "Rusty",
+    "real": "rust"
+  },
+  {
+    "pun": "I 'll glue the sheets of wood back together, Tom replied.",
+    "id": 143,
+    "pun_word": "replied",
+    "real": "re-plyed"
+  },
+  {
+    "pun": "OLD VACUUM CLEANER SALESMEN never die, they just get sucked in!",
+    "id": 144,
+    "pun_word": "sucked",
+    "real": "suckered"
+  },
+  {
+    "pun": "'Those cobs are amazing!' said Tom cornily.",
+    "id": 145,
+    "pun_word": "cornily",
+    "real": "corny"
+  },
+  {
+    "pun": "Having a rude waiter at an Ethiopian restaurant just adds insult to injera.",
+    "id": 146,
+    "pun_word": "Injera",
+    "real": "injury"
+  },
+  {
+    "pun": "One Sunday afternoon the Three Musketeers played a game of touché football.",
+    "id": 147,
+    "pun_word": "Touché",
+    "real": "touch"
+  },
+  {
+    "pun": "My name is Manuel, I write instruction books.",
+    "id": 148,
+    "pun_word": "Manuel",
+    "real": "manual"
+  },
+  {
+    "pun": "Your nose is in the scenter of your face.",
+    "id": 149,
+    "pun_word": "Scenter",
+    "real": "center"
+  },
+  {
+    "pun": "When Socrates needed to buy food he went to the grocery stoa.",
+    "id": 150,
+    "pun_word": "stoa",
+    "real": "store"
+  },
+  {
+    "pun": "Hell! I thought I’d gotten away with it!",
+    "id": 151,
+    "pun_word": "Hell",
+    "real": "Well"
+  },
+  {
+    "pun": "My name is Rusty, I'm an iron worker.",
+    "id": 152,
+    "pun_word": "Rusty",
+    "real": "rust"
+  },
+  {
+    "pun": "The members of the oldest profession are not really lost women ; they are just mislaid.",
+    "id": 153,
+    "pun_word": "mislaid",
+    "real": "misled"
+  },
+  {
+    "pun": "My name is Joe, an espresso vender",
+    "id": 154,
+    "pun_word": "Vender",
+    "real": "vendor"
+  },
+  {
+    "pun": "I've been called a rare commodity. I wonder if that makes me silver or gold ? I guess I could be either ore.",
+    "id": 155,
+    "pun_word": "ore",
+    "real": "or"
+  },
+  {
+    "pun": "My heart starts aiken when Clay sings.",
+    "id": 156,
+    "pun_word": "Aiken",
+    "real": "aching"
+  },
+  {
+    "pun": "'I'm just going to put these handcuffs on you,' said Tom manically.",
+    "id": 157,
+    "pun_word": "manically",
+    "real": "mechanically"
+  },
+  {
+    "pun": "OLD LAUNDRY WORKERS never die, they just are decreased.",
+    "id": 158,
+    "pun_word": "decreased",
+    "real": "depressed"
+  },
+  {
+    "pun": "Midwives don't like to wear breeches.",
+    "id": 159,
+    "pun_word": "Breeches",
+    "real": "breaches"
+  },
+  {
+    "pun": "When the beautician was asked to complete her make - up work she blushed.",
+    "id": 160,
+    "pun_word": "Blushed",
+    "real": "blush"
+  },
+  {
+    "pun": "'I've got sand in my dinner,' said Tom grittily.",
+    "id": 161,
+    "pun_word": "grittily",
+    "real": "gritty"
+  },
+  {
+    "pun": "Some women stay single and others are the Marion kind.",
+    "id": 162,
+    "pun_word": "Marion",
+    "real": "marrying"
+  },
+  {
+    "pun": "I went to see my guru but he wasn't omm.",
+    "id": 163,
+    "pun_word": "omm",
+    "real": "home"
+  },
+  {
+    "pun": "After a cold winter, will deciduous trees be releaved ?",
+    "id": 164,
+    "pun_word": "releaved",
+    "real": "relieved"
+  },
+  {
+    "pun": "If jokes could be owned like land, then no good pun would go undeeded.",
+    "id": 165,
+    "pun_word": "undeeded",
+    "real": "unneeded"
+  },
+  {
+    "pun": "The Vatican's supplier of duck eggs is elected by sacred balut.",
+    "id": 166,
+    "pun_word": "Balut",
+    "real": "ballot"
+  },
+  {
+    "pun": "She was only a Bottlemaker's daughter, but nothing could stop her.",
+    "id": 167,
+    "pun_word": "stop_her",
+    "real": "stopper"
+  },
+  {
+    "pun": "The queen told the prince that he was a royal pain.",
+    "id": 168,
+    "pun_word": "Royal",
+    "real": "real"
+  },
+  {
+    "pun": "Vinyl records are really groovy.",
+    "id": 169,
+    "pun_word": "Groovy",
+    "real": "groove"
+  },
+  {
+    "pun": "'This is where I keep my arrows,' said Tom quiveringly.",
+    "id": 170,
+    "pun_word": "quiveringly",
+    "real": "quiver"
+  },
+  {
+    "pun": "'Europe needs more self - restraint,' said Tom continently.",
+    "id": 171,
+    "pun_word": "continently",
+    "real": "confidently"
+  },
+  {
+    "pun": "The fish were shy - obviously koi.",
+    "id": 172,
+    "pun_word": "Koi",
+    "real": "coy"
+  },
+  {
+    "pun": "I dropped a tub of margarine in the kitchen and ended up with a Parkay floor.",
+    "id": 173,
+    "pun_word": "Parkay",
+    "real": "parquet"
+  },
+  {
+    "pun": "The untruthful deli clerk was full of baloney.",
+    "id": 174,
+    "pun_word": "Baloney",
+    "real": "bologna"
+  },
+  {
+    "pun": "My name is Homer. I am a realter.",
+    "id": 175,
+    "pun_word": "Realter",
+    "real": "realtor"
+  },
+  {
+    "pun": "The magician who loved his chocolate could perform a lot of Twix.",
+    "id": 176,
+    "pun_word": "Twix",
+    "real": "tricks"
+  },
+  {
+    "pun": "In some countries there is a lot of Manuel labor.",
+    "id": 177,
+    "pun_word": "Manuel",
+    "real": "manual"
+  },
+  {
+    "pun": "OLD AUTO MECHANICS never die, they just retire.",
+    "id": 178,
+    "pun_word": "retire",
+    "real": "tire"
+  },
+  {
+    "pun": "May the 4th be with you.",
+    "id": 179,
+    "pun_word": "4th",
+    "real": "force"
+  },
+  {
+    "pun": "I just had some coffee that was good only for its sedimental value.",
+    "id": 180,
+    "pun_word": "Sedimental",
+    "real": "sentimental"
+  },
+  {
+    "pun": "A doctor's mistakes go six feet under ; a dentist's cover an acre.",
+    "id": 181,
+    "pun_word": "cover",
+    "real": "cavity"
+  },
+  {
+    "pun": "Get the stick, Rover! Tom called fetchingly.",
+    "id": 182,
+    "pun_word": "Fetchingly",
+    "real": "fetch"
+  },
+  {
+    "pun": "Those whose child is going through a'phase'may wish they had a phaser.",
+    "id": 183,
+    "pun_word": "Phase",
+    "real": "phaser"
+  },
+  {
+    "pun": "Most samurai refused to shave. They were bushi.",
+    "id": 184,
+    "pun_word": "bushi",
+    "real": "bushy"
+  },
+  {
+    "pun": "My name is Hugh. I'm a painter.",
+    "id": 185,
+    "pun_word": "Hugh",
+    "real": "hue"
+  },
+  {
+    "pun": "Should old people feel youthless ?",
+    "id": 186,
+    "pun_word": "Youthless",
+    "real": "useless"
+  },
+  {
+    "pun": "Illusionists always find themselves in tricky situations.",
+    "id": 187,
+    "pun_word": "Tricky",
+    "real": "tricks"
+  },
+  {
+    "pun": "OLD CONTORTIONISTS never die, they just meet their end.",
+    "id": 188,
+    "pun_word": "end",
+    "real": "bend"
+  },
+  {
+    "pun": "Photography developers occasionally have serious emulsional problems.",
+    "id": 189,
+    "pun_word": "Emulsional",
+    "real": "emotional"
+  },
+  {
+    "pun": "Wow, thanks for the tea. I'm glad I got to Chai it.",
+    "id": 190,
+    "pun_word": "Chai",
+    "real": "try"
+  },
+  {
+    "pun": "Some rappers are good but others are Ludacris.",
+    "id": 191,
+    "pun_word": "Ludacris",
+    "real": "ludicrous"
+  },
+  {
+    "pun": "Some people have to get up for work at the crank of dawn.",
+    "id": 192,
+    "pun_word": "crank",
+    "real": "crack"
+  },
+  {
+    "pun": "She always paints night scenes. Other artists pale by comparison.",
+    "id": 193,
+    "pun_word": "Pale",
+    "real": "fail"
+  },
+  {
+    "pun": "' Come see my fishpond', she said coyly.",
+    "id": 194,
+    "pun_word": "Coyly",
+    "real": "koi"
+  },
+  {
+    "pun": "'Why is this telephone flex always tangled ?' asked Tom coyly.",
+    "id": 195,
+    "pun_word": "coyly",
+    "real": "coily"
+  },
+  {
+    "pun": "Insulting an East Indian chef will bring you bad Korma.",
+    "id": 196,
+    "pun_word": "Korma",
+    "real": "karma"
+  },
+  {
+    "pun": "Hell!... I’d forgotten about that!",
+    "id": 197,
+    "pun_word": "Hell",
+    "real": "Well"
+  },
+  {
+    "pun": "The big new clock at city hall was the tock of the town.",
+    "id": 198,
+    "pun_word": "Tock",
+    "real": "talk"
+  },
+  {
+    "pun": "The electricity was off and they couldn't found out watt was the problem.",
+    "id": 199,
+    "pun_word": "watt",
+    "real": "what"
+  },
+  {
+    "pun": "OLD WHEELS never die they just get retired.",
+    "id": 200,
+    "pun_word": "Retired",
+    "real": "tired"
+  },
+  {
+    "pun": "Camille relocated to Little Italy: They made her a cougher ; she couldn't refuse",
+    "id": 201,
+    "pun_word": "Cougher",
+    "real": "offer"
+  },
+  {
+    "pun": "'I can no longer hear anything,' said Tom deftly.",
+    "id": 202,
+    "pun_word": "deftly",
+    "real": "deafly"
+  },
+  {
+    "pun": "My name is Dustin. I'm a school custodian",
+    "id": 203,
+    "pun_word": "Dustin",
+    "real": "dusting"
+  },
+  {
+    "pun": "The new smoking cessation drug is expensive, and it's shrinking city coffers.",
+    "id": 204,
+    "pun_word": "Coffers",
+    "real": "coughers"
+  },
+  {
+    "pun": "The state police highway officer worked tirelessly in the heavy rain to assist a lady whose car was stuck in a ditch. He was a real trooper.",
+    "id": 205,
+    "pun_word": "trooper",
+    "real": "trouper"
+  },
+  {
+    "pun": "A flute teacher is a tutor.",
+    "id": 206,
+    "pun_word": "Tutor",
+    "real": "tooter"
+  },
+  {
+    "pun": "I'm the presenter of the South Bank Show, Melvyn bragged.",
+    "id": 207,
+    "pun_word": "bragged",
+    "real": "Bragg"
+  },
+  {
+    "pun": "My name is Avery. I raise birds.",
+    "id": 208,
+    "pun_word": "Avery",
+    "real": "aviary"
+  },
+  {
+    "pun": "I went and saw the Hobbit, it put a Smaug look on my face.",
+    "id": 209,
+    "pun_word": "Smaug",
+    "real": "smug"
+  },
+  {
+    "pun": "Greeks can't stay out late because they have a Corfu.",
+    "id": 210,
+    "pun_word": "Corfu",
+    "real": "curfew"
+  },
+  {
+    "pun": "Acupuncture: a jab well done.",
+    "id": 211,
+    "pun_word": "Jab",
+    "real": "job"
+  },
+  {
+    "pun": "My name is Sandy, I just hang around the beach.",
+    "id": 212,
+    "pun_word": "Sandy",
+    "real": "sand"
+  },
+  {
+    "pun": "While baking, I dropped a stick of margarine on the wooden tile floor, and when my neighbor slipped and fell, I said' It must have been the parkay.'",
+    "id": 213,
+    "pun_word": "Parkay",
+    "real": "parquet"
+  },
+  {
+    "pun": "The environmentalist rode his bike 20 miles in the morning and 20 more in the evening. He loved recycling.",
+    "id": 214,
+    "pun_word": "Recycling",
+    "real": "cycling"
+  },
+  {
+    "pun": "In the winter, some horses are Friesian.",
+    "id": 215,
+    "pun_word": "Friesian",
+    "real": "freezing"
+  },
+  {
+    "pun": "'I won't buy a circuit breaker, 'Tom refused.",
+    "id": 216,
+    "pun_word": "refused",
+    "real": "fused"
+  },
+  {
+    "pun": "One should be cherry of virgins.",
+    "id": 217,
+    "pun_word": "cherry",
+    "real": "wary"
+  },
+  {
+    "pun": "A frightened bird dog that runs from everything is known as the Golden Retreater.",
+    "id": 218,
+    "pun_word": "Retreater",
+    "real": "Retriever"
+  },
+  {
+    "pun": "The river crested when a factory spilled toothpaste into it.",
+    "id": 219,
+    "pun_word": "crested",
+    "real": "Crest"
+  },
+  {
+    "pun": "What you can buy for a dollar these days is absolute noncents.",
+    "id": 220,
+    "pun_word": "Noncents",
+    "real": "nonsense"
+  },
+  {
+    "pun": "Acupuncture is a jab well done.",
+    "id": 221,
+    "pun_word": "jab",
+    "real": "job"
+  },
+  {
+    "pun": "Will this computer last five years ? Obsoletely!",
+    "id": 222,
+    "pun_word": "Obsoletely",
+    "real": "Absolutely"
+  },
+  {
+    "pun": "When I grow up I wanna be a cup so I can fight crime.",
+    "id": 223,
+    "pun_word": "cup",
+    "real": "cop"
+  }
+]
